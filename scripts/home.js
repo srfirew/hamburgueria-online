@@ -61,5 +61,5 @@ search.addEventListener("click", () => {
 const home = document.getElementById("home");
 
 home.addEventListener("click", () => {
-    window.location.href = "/index.html";
+    window.location.href = "/.";
 })
